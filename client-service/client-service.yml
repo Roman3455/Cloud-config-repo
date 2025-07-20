@@ -1,0 +1,3 @@
+example:
+  default: "Default property from git for all profiles"
+  toOverride: "Message from git default profile"
