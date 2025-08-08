@@ -1,4 +1,4 @@
 example:
-  default: "Default property from git for all profiles"
+  default: "Default property from --git-- for all profiles"
   toOverride: "Message from git default profile"
   encrypted: '{cipher}65fa5ba164977153d5b9949ab51d8f52f2713e469ca28e9aa8bcd8b641e05ddf'
